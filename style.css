@@ -1,0 +1,26 @@
+.card{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0 auto;
+    margin-top: 10px;
+    height: 450px;
+    border-radius: 30px;
+}
+
+#icono{
+   
+    font-size: 50px;
+    padding: 0%;
+ }
+ 
+ #number{
+     margin-top: 40%;
+     margin-left: 45%;
+     font-size: 60px;
+ }
+ 
+ #simbolo{
+     font-size: 50px;
+     margin-left: 115px;
+     margin-top: 115px;
+     transform: rotate(180deg);
+ }
